@@ -1,0 +1,2 @@
+{"task":"add session logging instruction to CLAUDE.md","turn":1,"conventions_followed":true,"first_attempt_correct":false,"unprompted_context_use":false,"clarifying_questions_asked":0,"bugs_found":0,"linter_errors_in_output":0,"time_seconds":null}
+{"task":"find and fix 2 bugs in utils.py","turn":2,"conventions_followed":true,"first_attempt_correct":false,"unprompted_context_use":false,"clarifying_questions_asked":0,"bugs_found":2,"linter_errors_in_output":0,"time_seconds":null}
